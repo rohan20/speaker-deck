@@ -22,3 +22,9 @@ Slides: [Architecture Components in Android](https://docs.google.com/presentatio
   <br>Event: [Google Developer Days Extended](https://www.meetup.com/GDGNewDelhi/events/245828273/)
   <br>Community: [GDG New Delhi](meetup.com/gdgnewdelhi)
   <br>Venue: Investopad, New Delhi
+
+#### 29th Oct
+Slides: [Introduction to Data Binding Library in Android](https://docs.google.com/presentation/d/1AOy5l4BAqeu1VIsYIqb0nQdYysHER8ubuQ6IQuvhDRY/edit?usp=sharing)
+  <br>Event: [DevFest 2017](https://www.meetup.com/GDGNewDelhi/events/243302149/)
+  <br>Community: [GDG New Delhi](meetup.com/gdgnewdelhi)
+  <br>Venue: To The New, Noida
