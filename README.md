@@ -9,3 +9,9 @@ A list of all my talks' slides
   <br>Community: [GDG New Delhi](meetup.com/gdgnewdelhi)
   <br>Venue: UrbanClap, Gurgaon
 
+#### 18th Feb
+  Slides: [Android Codelab](https://docs.google.com/presentation/d/16tSlqLzBzMiCGLAm3KY_DHtDntmK4THGXFgFJFWSJqs/edit?usp=sharing)
+  <br>Event: Google tech day for developers
+  <br>Community: [JSLovers](meetup.com/jslovers)
+  <br>Venue: 91Springboard, Gurgaon
+
