@@ -15,3 +15,10 @@ A list of all my talks' slides
   <br>Community: [JSLovers](meetup.com/jslovers)
   <br>Venue: 91Springboard, Gurgaon
 
+### 2017
+
+#### 23rd Dec
+Slides: [Architecture Components in Android](https://docs.google.com/presentation/d/17YHTW0lZMCRXD5HSvIRfJ4vT_tbcLKZz17hF6ip5LP4/edit?usp=sharing)
+  <br>Event: [Google Developer Days Extended](https://www.meetup.com/GDGNewDelhi/events/245828273/)
+  <br>Community: [GDG New Delhi](meetup.com/gdgnewdelhi)
+  <br>Venue: Investopad, New Delhi
