@@ -5,7 +5,8 @@ A list of all my talks' slides
 
 #### 21st July
   Slides: [Why Flutter is the framework developers deserve, but also the one they need right now?](https://docs.google.com/presentation/d/1jVzoTRuBSznBBIgG9QFsTwikFlJQGvJTA6lDDOFoUPM/edit?usp=sharing)
-  <br>Conference: [Flutter Bangalore](www.meetup.com/flutter-bangalore-group/)
+  <br>Event: [React Native + Flutter Meetup](https://www.meetup.com/flutter-bangalore-group/events/252595211/)
+  <br>Community: [Flutter Bangalore](www.meetup.com/flutter-bangalore-group/)
   <br>Venue: GeekyAnts, Bangalore
 
 #### 14th July
