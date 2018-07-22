@@ -3,6 +3,11 @@ A list of all my talks' slides
 
 ### 2018
 
+#### 21st July
+  Slides: [Why Flutter is the framework developers deserve, but also the one they need right now?](https://docs.google.com/presentation/d/1jVzoTRuBSznBBIgG9QFsTwikFlJQGvJTA6lDDOFoUPM/edit?usp=sharing)
+  <br>Conference: [Flutter Bangalore](www.meetup.com/flutter-bangalore-group/)
+  <br>Venue: GeekyAnts, Bangalore
+
 #### 14th July
   Slides: [Why Flutter is the framework developers deserve, but also the one they need right now?](https://docs.google.com/presentation/d/1OWw-HxGemlOC2asbJ0cikjvVHz47lEuT8-r1-ALGl5o/edit?usp=sharing)
   <br>Conference: [DroidJam 2018](www.droidjam.in)
