@@ -3,6 +3,11 @@ A list of all my talks' slides
 
 ### 2018
 
+#### 20th October
+  Slides: [Why Flutter is the mobile SDK developers deserve, but also the one they need right now?](https://docs.google.com/presentation/d/1ZUrhonx6Lc-vupMucpxxhOmzfQQxAnvyUspSnn1Qv3w/edit?usp=sharing)
+  <br>Conference: [Mobilization 8](2018.mobilization.pl)
+  <br>Venue: Łódź, Poland
+
 #### 21st July
   Slides: [Why Flutter is the framework developers deserve, but also the one they need right now?](https://docs.google.com/presentation/d/1jVzoTRuBSznBBIgG9QFsTwikFlJQGvJTA6lDDOFoUPM/edit?usp=sharing)
   <br>Event: [React Native + Flutter Meetup](https://www.meetup.com/flutter-bangalore-group/events/252595211/)
