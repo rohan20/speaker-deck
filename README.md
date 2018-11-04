@@ -3,6 +3,12 @@ A list of all my talks' slides
 
 ### 2018
 
+#### 3rd November
+Slides: [Why Flutter is the framework developers deserve, but also the one they need right now?](https://docs.google.com/presentation/d/1W2F_xiWCNAk6XWyizuBdjVYrPy0FYvivYG711I4-LRE/edit?usp=sharing)
+  <br>Event: Flutter Study Jam
+  <br>Community: [GDG Kazan](https://twitter.com/GDGKazan)
+  <br>Venue: Remote
+
 #### 20th October
   Slides: [Why Flutter is the mobile SDK developers deserve, but also the one they need right now?](https://docs.google.com/presentation/d/1ZUrhonx6Lc-vupMucpxxhOmzfQQxAnvyUspSnn1Qv3w/edit?usp=sharing)
   <br>Conference: [Mobilization 8](2018.mobilization.pl)
