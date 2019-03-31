@@ -3,6 +3,12 @@ A list of all my talks' slides
 
 ### 2019
 
+#### 27th February
+Slides: [Communication between OEM and Flutter](https://docs.google.com/presentation/d/1qlMAis4VyWSgCfC4rCDpoZ4jUMqJBJxRMb2Ucov_KBk/edit?usp=sharing)
+  <br>Event: [Flutter Meetup](https://www.meetup.com/GDG-Barcelona/events/258361774/)
+  <br>Community: [GDG Barcelona](https://www.meetup.com/GDG-Barcelona/)
+  <br>Venue: Barcelona, Spain
+
 #### 16th January
 Slides: [Communication between OEM and Flutter](https://docs.google.com/presentation/d/16uac8wCxWEIVStoUJnWuvKs9xWX0OjNEnPDt_xTdjJA/edit?usp=sharing)
   <br>Event: [Flutter Meetup](https://www.meetup.com/flutter-berlin/events/257159680/)
