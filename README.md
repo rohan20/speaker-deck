@@ -1,6 +1,14 @@
 # speaker-deck
 A list of all my talks' slides
 
+### 2019
+
+#### 16th January
+Slides: [Communication between OEM and Flutter](https://docs.google.com/presentation/d/16uac8wCxWEIVStoUJnWuvKs9xWX0OjNEnPDt_xTdjJA/edit?usp=sharing)
+  <br>Event: Flutter Meetup
+  <br>Community: [Flutter Berlin](https://www.meetup.com/flutter-berlin/)
+  <br>Venue: Berlin, Germany
+
 ### 2018
 
 #### 3rd November
