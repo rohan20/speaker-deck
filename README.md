@@ -5,7 +5,7 @@ A list of all my talks' slides
 
 #### 16th January
 Slides: [Communication between OEM and Flutter](https://docs.google.com/presentation/d/16uac8wCxWEIVStoUJnWuvKs9xWX0OjNEnPDt_xTdjJA/edit?usp=sharing)
-  <br>Event: Flutter Meetup
+  <br>Event: [Flutter Meetup](https://www.meetup.com/flutter-berlin/events/257159680/)
   <br>Community: [Flutter Berlin](https://www.meetup.com/flutter-berlin/)
   <br>Venue: Berlin, Germany
 
