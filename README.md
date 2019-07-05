@@ -3,6 +3,11 @@ A list of all my talks' slides
 
 ### 2019
 
+#### 3rd July
+Slides: [Building a Droidcon app using Flutter](https://docs.google.com/presentation/d/1jEUfhdqEE2Na4Z2F0bBV9hG3XkwyOvYrJHYCCiOUybw/edit?usp=sharing)
+  <br>Conference: [Droidcon Berlin 2019](https://de.droidcon.com)
+  <br>Venue: Berlin, Germany
+
 #### 27th February
 Slides: [Communication between OEM and Flutter](https://docs.google.com/presentation/d/1qlMAis4VyWSgCfC4rCDpoZ4jUMqJBJxRMb2Ucov_KBk/edit?usp=sharing)
   <br>Event: [Flutter Meetup](https://www.meetup.com/GDG-Barcelona/events/258361774/)
