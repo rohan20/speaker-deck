@@ -5,6 +5,7 @@ A list of all my talks' slides
 
 #### 3rd July
 Slides: [Building a Droidcon app using Flutter](https://docs.google.com/presentation/d/1jEUfhdqEE2Na4Z2F0bBV9hG3XkwyOvYrJHYCCiOUybw/edit?usp=sharing)
+  <br> Video: [Building a Droidcon app using Flutter](https://www.youtube.com/watch?v=g62xRTtm8J4)
   <br>Conference: [Droidcon Berlin 2019](https://de.droidcon.com)
   <br>Venue: Berlin, Germany
 
