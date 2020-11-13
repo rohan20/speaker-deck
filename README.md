@@ -30,7 +30,8 @@ Slides: [Why Flutter is the framework developers deserve, but also the one they 
   <br>Venue: Remote
 
 #### 20th October
-  Slides: [Why Flutter is the mobile SDK developers deserve, but also the one they need right now?](https://docs.google.com/presentation/d/1ZUrhonx6Lc-vupMucpxxhOmzfQQxAnvyUspSnn1Qv3w/edit?usp=sharing)
+  <br> Video: [Why Flutter is the mobile SDK developers deserve, but also the one they need right now?](https://www.youtube.com/watch?v=PX5kaXXGrsY)
+  <br> Slides: [Why Flutter is the mobile SDK developers deserve, but also the one they need right now?](https://docs.google.com/presentation/d/1ZUrhonx6Lc-vupMucpxxhOmzfQQxAnvyUspSnn1Qv3w/edit?usp=sharing)
   <br>Conference: [Mobilization 8](2018.mobilization.pl)
   <br>Venue: Łódź, Poland
 
@@ -41,7 +42,8 @@ Slides: [Why Flutter is the framework developers deserve, but also the one they 
   <br>Venue: GeekyAnts, Bangalore
 
 #### 14th July
-  Slides: [Why Flutter is the framework developers deserve, but also the one they need right now?](https://docs.google.com/presentation/d/1OWw-HxGemlOC2asbJ0cikjvVHz47lEuT8-r1-ALGl5o/edit?usp=sharing)
+  <br> Video: [Why Flutter is the mobile SDK developers deserve, but also the one they need right now?](https://www.youtube.com/watch?v=TsPwc4iW9gY)
+  <br> Slides: [Why Flutter is the framework developers deserve, but also the one they need right now?](https://docs.google.com/presentation/d/1OWw-HxGemlOC2asbJ0cikjvVHz47lEuT8-r1-ALGl5o/edit?usp=sharing)
   <br>Conference: [DroidJam 2018](www.droidjam.in)
   <br>Venue: Sheraton Grand Brigade Gateway, Bangalore
 
