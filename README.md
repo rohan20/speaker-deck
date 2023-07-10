@@ -1,6 +1,14 @@
 # speaker-deck
 A list of all my talks' slides
 
+### 2023
+
+#### 7th July
+Slides: [Automate Flutter app releases using Fastlane and Bitrise](https://docs.google.com/presentation/d/1WvNA6rKls51RXPJBoFKLVFruOf_g6DcxX73e81TCXFk/edit#slide=id.p)
+  <br> Video: Not available yet
+  <br>Conference: [Fluttercon Berlin 2023](https://fluttercon.dev)
+  <br>Venue: Berlin, Germany
+
 ### 2019
 
 #### 3rd July
