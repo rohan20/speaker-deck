@@ -5,7 +5,7 @@ A list of all my talks' slides
 
 #### 7th July
 Slides: [Automate Flutter app releases using Fastlane and Bitrise](https://docs.google.com/presentation/d/1WvNA6rKls51RXPJBoFKLVFruOf_g6DcxX73e81TCXFk/edit#slide=id.p)
-  <br> Video: Not available yet
+  <br> Video: [Automate Flutter app releases using Fastlane and Bitrise](https://www.droidcon.com/2023/08/06/automate-flutter-app-releases-using-fastlane-and-bitrise/)
   <br>Conference: [Fluttercon Berlin 2023](https://fluttercon.dev)
   <br>Venue: Berlin, Germany
 
